@@ -1,0 +1,21 @@
+order_id,date,customer_name,product_name,quantity,unit_price,total_amount,payment_method,shipping_status
+1001,2024-12-01,John Smith,Gaming Laptop,1,1299.99,1299.99,Credit Card,Delivered
+1002,2024-12-02,Sarah Johnson,Wireless Mouse,2,29.99,59.98,PayPal,In Transit
+1003,2024-12-02,Michael Brown,4K Monitor,1,399.99,399.99,Credit Card,Processing
+1004,2024-12-03,Emma Davis,Mechanical Keyboard,1,89.99,89.99,Debit Card,Delivered
+1005,2024-12-03,James Wilson,USB-C Hub,3,49.99,149.97,PayPal,Delivered
+1006,2024-12-04,Lisa Anderson,Gaming Mouse,2,59.99,119.98,Credit Card,In Transit
+1007,2024-12-04,Robert Taylor,Laptop Stand,1,39.99,39.99,PayPal,Processing
+1008,2024-12-05,Patricia White,Webcam HD,1,79.99,79.99,Credit Card,Delivered
+1009,2024-12-05,David Martin,External SSD,2,129.99,259.98,Debit Card,In Transit
+1010,2024-12-06,Jennifer Garcia,Wireless Keyboard,1,69.99,69.99,PayPal,Processing
+1011,2024-12-06,Richard Martinez,Gaming Headset,1,99.99,99.99,Credit Card,Delivered
+1012,2024-12-07,Elizabeth Robinson,USB Flash Drive,5,19.99,99.95,PayPal,In Transit
+1013,2024-12-07,Thomas Clark,Bluetooth Speaker,2,89.99,179.98,Credit Card,Processing
+1014,2024-12-08,Susan Rodriguez,Phone Charger,3,24.99,74.97,Debit Card,Delivered
+1015,2024-12-08,Joseph Lee,Laptop Bag,1,49.99,49.99,PayPal,In Transit
+1016,2024-12-09,Margaret Lewis,Wireless Earbuds,2,129.99,259.98,Credit Card,Processing
+1017,2024-12-09,Charles Walker,Printer,1,299.99,299.99,Credit Card,Delivered
+1018,2024-12-10,Nancy Hall,Mouse Pad,4,14.99,59.96,PayPal,In Transit
+1019,2024-12-10,Christopher Allen,Desk Lamp,2,39.99,79.98,Debit Card,Processing
+1020,2024-12-10,Betty Young,Computer Glasses,1,49.99,49.99,Credit Card,Delivered

@@ -1,0 +1,181 @@
+{
+    "orders": [
+      {
+        "id": "ORD-1001",
+        "date": "2024-12-01",
+        "customer": {
+          "name": "John Smith",
+          "email": "john.smith@email.com",
+          "address": {
+            "street": "123 Main St",
+            "city": "Boston",
+            "state": "MA",
+            "zip": "02108"
+          }
+        },
+        "items": [
+          {
+            "product": "Gaming Laptop",
+            "quantity": 1,
+            "unit_price": 1299.99,
+            "total": 1299.99
+          }
+        ],
+        "payment": {
+          "method": "Credit Card",
+          "status": "Completed",
+          "transaction_id": "TXN-78901"
+        },
+        "shipping": {
+          "status": "Delivered",
+          "tracking_number": "TR-12345",
+          "carrier": "FedEx"
+        }
+      },
+      {
+        "id": "ORD-1002",
+        "date": "2024-12-02",
+        "customer": {
+          "name": "Sarah Johnson",
+          "email": "sarah.j@email.com",
+          "address": {
+            "street": "456 Oak Avenue",
+            "city": "Chicago",
+            "state": "IL",
+            "zip": "60601"
+          }
+        },
+        "items": [
+          {
+            "product": "Wireless Mouse",
+            "quantity": 2,
+            "unit_price": 29.99,
+            "total": 59.98
+          },
+          {
+            "product": "Mouse Pad",
+            "quantity": 1,
+            "unit_price": 14.99,
+            "total": 14.99
+          }
+        ],
+        "payment": {
+          "method": "PayPal",
+          "status": "Completed",
+          "transaction_id": "TXN-78902"
+        },
+        "shipping": {
+          "status": "In Transit",
+          "tracking_number": "TR-12346",
+          "carrier": "UPS"
+        }
+      },
+      {
+        "id": "ORD-1003",
+        "date": "2024-12-03",
+        "customer": {
+          "name": "Michael Brown",
+          "email": "m.brown@email.com",
+          "address": {
+            "street": "789 Pine Road",
+            "city": "Seattle",
+            "state": "WA",
+            "zip": "98101"
+          }
+        },
+        "items": [
+          {
+            "product": "4K Monitor",
+            "quantity": 1,
+            "unit_price": 399.99,
+            "total": 399.99
+          }
+        ],
+        "payment": {
+          "method": "Credit Card",
+          "status": "Completed",
+          "transaction_id": "TXN-78903"
+        },
+        "shipping": {
+          "status": "Processing",
+          "tracking_number": "TR-12347",
+          "carrier": "DHL"
+        }
+      },
+      {
+        "id": "ORD-1004",
+        "date": "2024-12-04",
+        "customer": {
+          "name": "Emma Davis",
+          "email": "emma.d@email.com",
+          "address": {
+            "street": "321 Elm Street",
+            "city": "Austin",
+            "state": "TX",
+            "zip": "73301"
+          }
+        },
+        "items": [
+          {
+            "product": "Mechanical Keyboard",
+            "quantity": 1,
+            "unit_price": 89.99,
+            "total": 89.99
+          },
+          {
+            "product": "Wrist Rest",
+            "quantity": 1,
+            "unit_price": 19.99,
+            "total": 19.99
+          }
+        ],
+        "payment": {
+          "method": "Debit Card",
+          "status": "Completed",
+          "transaction_id": "TXN-78904"
+        },
+        "shipping": {
+          "status": "Delivered",
+          "tracking_number": "TR-12348",
+          "carrier": "FedEx"
+        }
+      },
+      {
+        "id": "ORD-1005",
+        "date": "2024-12-05",
+        "customer": {
+          "name": "James Wilson",
+          "email": "j.wilson@email.com",
+          "address": {
+            "street": "567 Maple Drive",
+            "city": "Denver",
+            "state": "CO",
+            "zip": "80201"
+          }
+        },
+        "items": [
+          {
+            "product": "USB-C Hub",
+            "quantity": 3,
+            "unit_price": 49.99,
+            "total": 149.97
+          }
+        ],
+        "payment": {
+          "method": "PayPal",
+          "status": "Completed",
+          "transaction_id": "TXN-78905"
+        },
+        "shipping": {
+          "status": "Delivered",
+          "tracking_number": "TR-12349",
+          "carrier": "UPS"
+        }
+      }
+    ],
+    "metadata": {
+      "total_orders": 5,
+      "generated_date": "2024-12-30",
+      "version": "1.0"
+    }
+  }
